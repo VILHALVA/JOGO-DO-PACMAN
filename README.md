@@ -20,31 +20,11 @@ Este é um jogo simples em um ambiente de canvas HTML5, onde o jogador controla 
 
 Este jogo pode ser expandido com mais funcionalidades, como pontos de poder, pontos de bônus, diferentes níveis de dificuldade, entre outros. Além disso, a aparência visual e a mecânica do jogo podem ser melhoradas para torná-lo mais envolvente.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/JOGO-DO-PACMAN.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd JOGO-DO-PACMAN
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip JOGO-DO-PACMAN.zip
-```
-* Abra o arquivo `index.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO "LuizCarlosVilela"](https://github.com/LuizCarlosVilela/Pacman-JS)
