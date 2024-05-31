@@ -29,4 +29,3 @@ Este jogo pode ser expandido com mais funcionalidades, como pontos de poder, pon
 ## CREDITOS:
 - [PROJETO CRIADO PELO "LuizCarlosVilela"](https://github.com/LuizCarlosVilela/Pacman-JS)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
